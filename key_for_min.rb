@@ -3,6 +3,6 @@
 
 def key_for_min_value(hash)
 hash = {:iphone => 300, :samsung => 555, :nokia => 1000}
-hash.each do |phone, price| 
-  puts "this #{phone} is #{price}"
+hash.each do |"", price| 
+  puts "this phone is #{price}"
 end
